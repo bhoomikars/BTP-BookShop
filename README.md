@@ -1,0 +1,1 @@
+SAP Business Technology Platform (SAP BTP) brings together intelligent enterprise applications with database and data management, analytics, integration and extension capabilities into one platform for both cloud and hybrid environments, including hundreds of pre-built integrations for SAP and third-party applications.
